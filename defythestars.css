@@ -1,0 +1,31 @@
+body {
+	background-color: rgb(55,28,163);
+	font-size:100%;
+	margin: 50px 140px 20px 140px;
+}
+div.text  {
+	width: 750px;
+	background-color: rgb(252,252,252);
+	padding: 20px;
+	}
+
+p	{
+	font-family: "Century Schoolbook", "Book Antiqua", "Times New Roman", serif;
+}
+
+p.indent {
+	text-indent: 30px;
+}
+p.noindent:first-letter {
+	font-family: "Rechtman", "Edwardian Script ITC", "Book Antiqua", serif;
+	font-size: 50px;
+	float: left;
+	line-height: 20px;
+	padding-right: 2px; 
+}	
+p.choice {
+	text-align:center;
+}
+a	{
+	color: rgb(55,28,163);
+}
